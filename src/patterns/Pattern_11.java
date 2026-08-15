@@ -1,5 +1,11 @@
 package patterns;
 
+/*
+10 9 8 7
+4 5 6
+3 2
+1
+*/
 public class Pattern_11 {
     public static void main(String[] args) {
         int n=4;
